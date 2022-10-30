@@ -1,0 +1,14 @@
+What is Big O, 
+It's basiclly a way of analyzing the run time the amount of time it takes for our algorithm to eexcute
+as the input size of our algorithm grows 
+typically we can expect as the input what size of our algorithm grows the excution time of the algorithm is also
+going to grow but it could grow linearly which 
+
+
+Big O(1) No matter the input grow, the run time will be constains, time will be the same ont best on the input
+Big O(N) As the input grows, the time will grows depend on input, will be linear time algorithms
+Big(N^2) need loop, outer loop will go through inner loop every element
+BigO(n * m) --> 
+BigO (logN) --> Binary search 
+BigO (N log N) --> HeapSort, MergeSort
+BigO (2^n) --> Recursive function (Fabonaci)
